@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="latitude">LATITUDE</string>
+    <string name="longitude">LONGITUDE</string>
+    <string name="set">SET</string>
+    <string name="delete">DELETE</string>
+    <string name="add">ADD</string>
+    <string name="update">UPDATE</string>
+    <string name="address">ADDRESS:</string>
+    <string name="address_label">Address:</string>
+    <string name="longitude_label">Longitude:</string>
+    <string name="latitude_label">Latitude:</string>
+</resources>
